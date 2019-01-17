@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="admin_service" />
+        <module name="client_service2" />
+        <module name="clinet_service1" />
+        <module name="eureka_server" />
+        <module name="spring_boot_admin" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="admin_service" options="-parameters" />
+      <module name="client_service2" options="-parameters" />
+      <module name="clinet_service1" options="-parameters" />
+      <module name="eureka_server" options="-parameters" />
+    </option>
+  </component>
+</project>
