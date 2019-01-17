@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="admin_service" />
         <module name="client_service2" />
+        <module name="client_service3" />
         <module name="clinet_service1" />
         <module name="eureka_server" />
         <module name="spring_boot_admin" />
@@ -18,6 +19,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="admin_service" options="-parameters" />
       <module name="client_service2" options="-parameters" />
+      <module name="client_service3" options="-parameters" />
       <module name="clinet_service1" options="-parameters" />
       <module name="eureka_server" options="-parameters" />
     </option>

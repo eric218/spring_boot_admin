@@ -1,0 +1,17 @@
+
+server:
+  port: 8003
+
+spring:
+  application:
+      name: clinet_service3
+  boot:
+    admin:
+      client:
+        url: "http://localhost:8080"
+management:
+  endpoint:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
