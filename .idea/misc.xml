@@ -7,7 +7,6 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/eureka_server/pom.xml" />
         <option value="$PROJECT_DIR$/clinet_service1/pom.xml" />
-        <option value="$PROJECT_DIR$/admin_service/pom.xml" />
         <option value="$PROJECT_DIR$/client_service2/pom.xml" />
         <option value="$PROJECT_DIR$/client_service3/pom.xml" />
       </list>
